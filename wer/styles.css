@@ -1,0 +1,22 @@
+.header-color {
+    background-color: blue;
+}
+
+.list-group {
+    width: 500px;
+}
+
+.container-fluid {
+    align-items: center;
+    width: 500px;
+}
+
+.header_knob {
+    align-items: center;
+    width: 500px;
+}
+
+.navbar-brand {
+    align-items: center;
+    width: 500px;
+}
